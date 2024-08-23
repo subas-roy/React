@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Counter from './Counter'
+import Team from './Team'
 
 function App() {
   
@@ -21,6 +22,7 @@ function App() {
   return (
     <>
       <h1>React Core Concepts Part 2</h1>
+      <Team></Team>
       <button onClick={handleClick}>Click</button>
       <button onClick={handleClick2}>Click 2</button>
       {/* using arrow function in Jsx */}
