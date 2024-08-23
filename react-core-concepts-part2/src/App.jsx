@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Counter from './Counter'
 import Team from './Team'
+import Users from './Users'
 
 function App() {
   
@@ -22,6 +23,7 @@ function App() {
   return (
     <>
       <h1>React Core Concepts Part 2</h1>
+      <Users></Users>
       <Team></Team>
       <button onClick={handleClick}>Click</button>
       <button onClick={handleClick2}>Click 2</button>
