@@ -2,6 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import Counter from './Counter'
 
 function App() {
   
@@ -28,6 +29,7 @@ function App() {
       <button onClick={function inline() {alert('You clicked me')}}>Click inline</button>
       {/* passing a function */}
       <button onClick={() => addToFive(4)}>Click 4</button>
+      <Counter></Counter>
     </>
   )
 }
