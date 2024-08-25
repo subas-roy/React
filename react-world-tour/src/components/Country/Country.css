@@ -4,3 +4,7 @@
   margin: 15px;
   border-radius: 15px;
 }
+
+.visited{
+  background-color: wheat;
+}
