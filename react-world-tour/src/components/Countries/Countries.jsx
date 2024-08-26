@@ -46,10 +46,10 @@ const Countries = () => {
         }
       </div>
       <div className="countries-container">
-      {// send the 'country' and 'handleVisitedCountry' to the Çountry component 
-        countries.map(country => <Country key={country.cca3} country={country} handleVisitedCountry={handleVisitedCountry} handleVisitedFlags={handleVisitedFlags}></Country>)
-      }
-    </div>
+        {// send the 'country' and 'handleVisitedCountry' to the Çountry component 
+          countries.map(country => <Country key={country.cca3} country={country} handleVisitedCountry={handleVisitedCountry} handleVisitedFlags={handleVisitedFlags}></Country>)
+        }
+      </div>
     </div>
   );
 };
