@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co/MDPDJ2w/2.png",
+    "title": "The Hidden Forest",
+    "author_img": "https://i.ibb.co/WnzZXSV/boy1.png",
+    "posted_date": "2024-08-01",
+    "reading_time": 7,
+    "hashtags": ["#nature", "#adventure", "#forest"]
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co/rM2Rvcj/3.png",
+    "title": "Urban Legends Unveiled",
+    "author_img": "https://i.ibb.co/2SkcyQD/boy2.jpg",
+    "posted_date": "2024-08-15",
+    "reading_time": 12,
+    "hashtags": ["#mystery", "#urban", "#legends"]
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co/vs2hHbK/4.jpg",
+    "title": "Gastronomy Around the Globe",
+    "author_img": "https://i.ibb.co/pxx1XRT/girl1.jpg",
+    "posted_date": "2024-08-20",
+    "reading_time": 10,
+    "hashtags": ["#food", "#travel", "#culture"]
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co/6HpLL15/1.jpg",
+    "title": "The Future of AI",
+    "author_img": "https://i.ibb.co/jHtFjxP/girl2.jpg",
+    "posted_date": "2024-08-28",
+    "reading_time": 15,
+    "hashtags": ["#technology", "#AI", "#innovation"]
+  }
+]
